@@ -1,0 +1,44 @@
+body {
+    background-color:gainsboro;
+    color:black;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.header h1{
+        padding: 1em;
+        font-size: 3em;
+        text-align: center;
+}
+
+.photo{
+    text-align: center;
+}
+
+.header2 h2{
+    padding: 1em;
+    font-size: 2em;
+    text-align: center;
+}
+   
+
+footer{
+    text-align: center;
+    background: #818180;
+    padding: 1em;
+    font-size: 1.5em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    
+}
+
+.mifooter:hover{
+    background-color: #463c2d;
+    border-radius: 5px;
+  }
+
+.proyecto{
+    width: 80%;
+    font-size: 1.5em;
+    padding: 1em;
+}
